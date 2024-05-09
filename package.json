@@ -1,0 +1,19 @@
+{
+  "name": "@100-tech-ch/hello-world",
+  "version": "1.0.0",
+  "description": "Hello World for [100 秒テック](https://www.youtube.com/@100-tech-ch).",
+  "bin": {
+    "@100-tech-ch/hello-world": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100-tech-ch/hello-world.git"
+  },
+  "author": "100秒テック <100.tech.ch@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/100-tech-ch/hello-world#readme"
+}
